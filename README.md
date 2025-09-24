@@ -1,4 +1,4 @@
-# Is the Squirrel Grounded? (Predicting Squirrel Behavior)
+# Squirrel Classification
 
 ## Introduction: 
 In this project I plan on using machine learning to predict whether a squirrel is above ground(in a tree ) or not based on these features within the dataset.. I also plan on using machine learning to determine the color of the squirrels.
